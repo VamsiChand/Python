@@ -1,4 +1,4 @@
 # Python
 Python for Data Science
 
-Notebook Repository for Python
+Jupyter Notebook Repositories
